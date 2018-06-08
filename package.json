@@ -1,0 +1,28 @@
+{
+  "name": "Docker SO",
+  "version": "1.0.0",
+  "description": "Quick introduction to Docker. SO. UdeA. 2018-1.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm i && node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valgaze/docker-for-busy-people.git"
+  },
+  "keywords": [
+    "docker",
+    "tutorial",
+    "UdeA",
+    "node",
+    "server"
+  ],
+  "author": "Jerónimo Alzate Duque",
+  "bugs": {
+    "url": "https://github.com/jadope/Docker-SO/issues"
+  },
+  "dependencies": {
+    "node-uuid": "^1.4.7"
+  }
+}
